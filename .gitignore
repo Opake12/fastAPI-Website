@@ -1,0 +1,25 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+dist/
+*.egg
+*.log
+
+# Virtual environment
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Frontend
+/frontend/static/css/
+/frontend/static/js/
+/frontend/static/images/
+
